@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Go-Eat/static/css/main.2e19d453.chunk.css",
+    "main.js": "/Go-Eat/static/js/main.67f8225f.chunk.js",
+    "main.js.map": "/Go-Eat/static/js/main.67f8225f.chunk.js.map",
+    "runtime~main.js": "/Go-Eat/static/js/runtime~main.060c880c.js",
+    "runtime~main.js.map": "/Go-Eat/static/js/runtime~main.060c880c.js.map",
+    "static/css/2.8c5a54da.chunk.css": "/Go-Eat/static/css/2.8c5a54da.chunk.css",
+    "static/js/2.be84952e.chunk.js": "/Go-Eat/static/js/2.be84952e.chunk.js",
+    "static/js/2.be84952e.chunk.js.map": "/Go-Eat/static/js/2.be84952e.chunk.js.map",
+    "index.html": "/Go-Eat/index.html",
+    "precache-manifest.5ed59cf727018e0c488ffe305ea68be5.js": "/Go-Eat/precache-manifest.5ed59cf727018e0c488ffe305ea68be5.js",
+    "service-worker.js": "/Go-Eat/service-worker.js",
+    "static/css/2.8c5a54da.chunk.css.map": "/Go-Eat/static/css/2.8c5a54da.chunk.css.map",
+    "static/css/main.2e19d453.chunk.css.map": "/Go-Eat/static/css/main.2e19d453.chunk.css.map",
+    "static/media/mdb.css": "/Go-Eat/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/Go-Eat/static/media/fa-solid-900.f14c3b2f.ttf"
+  }
+}
