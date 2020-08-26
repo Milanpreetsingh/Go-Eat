@@ -1,33 +1,83 @@
-.App {
-  text-align: center;
+.crd{
+  margin-top:3cm;
+  
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.img{
+  background-image: url("https://mdbootstrap.com/img/Photos/Others/img%20(51).jpg");
+  min-height:650px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.grab{
+  cursor:grab;
+}
+.margin{
+  margin:60px;
+}
+.heading{
+  color:#366880;
+  background-color: aliceblue;
+}
+.bgimage{
+  background-color: #e0e8f0;
+  min-height: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.hotelimage{
+  min-width:1000px;
+  height:180px; 
+}
+.container{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content:space-around;
+}
+.hover:hover{
+  background-color:lavender;
+  color:black;
+}
+.confirmimage{
+  width:80%;
+}
+.backimagefirstpage{
+  background-image: url("https://www.blog-publisher.com/wp-content/uploads/Restaurant.jpg");
+  min-height:650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
-.App-link {
-  color: #61dafb;
+.bgcolor{
+  background-color:azure;
+  min-height: 650px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.back{
+  background-color:crimson
+}
+.text{
+  color:black;
+}
+.adjust{
+  width:35px;
+  height:35px;
+}
+.bgpayment{
+  background-image: url("https://siren.io/wp-content/uploads/Payments1_rendered1920x1080_WebReady.png");
+  min-height: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.note{
+  color:navy red ;
+}
+.color1{
+  background-color:azure;
+}
+.right{
+  right:0px;
 }
